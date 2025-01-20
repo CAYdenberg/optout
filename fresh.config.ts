@@ -12,11 +12,11 @@ export default defineConfig({
 
       siteTitle: "OptOut",
       siteDescription: "A experiment in rewilding the internet",
-      siteUrl: "https://optout.social",
+      siteUrl: Deno.env.get("SITE_URL") || "http://localhost:8000",
       siteMainAuthor: {
         name: "Casey A. Ydenberg",
       },
-      buildAttachments: false,
+      buildAttachments: !Deno.env.get("SITE_URL"),
     })),
   ],
 });
