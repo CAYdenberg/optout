@@ -15,7 +15,7 @@ export default function PostPage({ url, data }: PageProps<PostHandlerProps>) {
   return (
     <Wrapper
       url={url}
-      pageTitle="Blog"
+      pageTitle={data.post.title}
       pageDescription={data.post.summary}
       pageSocialImage={data.post.image}
     >
