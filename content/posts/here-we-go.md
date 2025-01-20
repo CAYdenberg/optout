@@ -7,7 +7,7 @@ banner_image: "/image/arbeit1"
 image: "/image/arbeit1"
 ---
 
-Eight years ago, on the day of Donald's Trump's first inauguration, I wrote the following:
+Eight years ago, on the day of Donald's Trump's first inauguration, [I wrote the following](https://livingpixel.io/blog/war-is-peace-citation-needed):
 
 > \[T\]here is no clearer indication to me that American voters are flirting with disaster than Donald Trump's flagrant disregard for objective reality. His "policies" are nothing more than a thinly veiled attempt to acknowledge a fictitious reality (already believed-in wholesale by millions): where trade deals screw American workers, where "hard working" means "white", where immigrants run rampant committing violent crime, where middle America is becoming poorer because of a gravy-train delivering their tax dollars to coastal elites and minorities, where their country is weakened by weak-kneed politicians cuckholded by foreign leaders. This alternative reality is undeniably racist, but racism is not even its biggest problem. Its biggest problem is that it is fake: disguising complex problems as ones that can be pinned on scapegoats, and thus easily solved.
 

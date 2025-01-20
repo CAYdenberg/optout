@@ -46,3 +46,19 @@ body.scrolled {
   padding-left: 2rem;
   font-size: 0.9em;
 }
+
+.content blockquote {
+  font-size: 0.9em;
+  padding-left: 1rem;
+  border-left: 4px solid hsl(86.47, 44.74%, 55.29%);
+}
+
+.content a {
+  text-decoration: underline;
+  color: hsl(249.3, 34.3%, 40.59%);
+}
+
+.content a:visited {
+  text-decoration: underline;
+  color: hsl(249.3, 34.3%, 25%);
+}
